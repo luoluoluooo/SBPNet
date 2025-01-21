@@ -1,5 +1,5 @@
 # SBPNet
 
-Segmentation of Flexible and Transparent Objects in Elevator Scenes
+Leveraging Prior Knowledge and Synthetic Data for Elevator Anomaly Object Detection
 
 ### The Code and Dataset will comming soon.
